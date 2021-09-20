@@ -48,11 +48,11 @@
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
-[![Gav Mac Medium](https://github-readme-medium.vercel.app/?username=@GavMac2010)](https://medium.com/@GavMac2010)
+[![Gav Mac Medium](https://github-readme-medium.vercel.app/?username=GavMac2010)](https://medium.com/@GavMac2010)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&redirect=true)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=@gavmac2010)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=gavmac2010)](https://medium.com/@omidnikrah)
 
 <!--
 **gavmac/gavmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
