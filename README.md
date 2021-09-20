@@ -8,7 +8,6 @@
 ## ⚡ Technologies
 
 ##### I work mostly with JS
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -16,11 +15,11 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
 
-##### but have working experience with
+##### but in the past have enjoyed using
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF6347?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
-##### The recent tech I've been using for API's, DB's, Testing, Styling and Dev-ops
+##### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
 ![REST](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
@@ -48,11 +47,10 @@
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
-[![Gav Mac Medium](https://github-readme-medium.vercel.app/?username=GavMac2010)](https://medium.com/@GavMac2010)
 
+##### What Im listening too right now
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&redirect=true)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=gavmac2010)](https://medium.com/@gavmac2010)
 
 <!--
 **gavmac/gavmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
