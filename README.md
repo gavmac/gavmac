@@ -43,13 +43,13 @@ But have also work on
 ![Cucumber](https://img.shields.io/badge/-Cucumber-success?style=flat-square&logo=cucumber)
 ![React Testing Library](https://img.shields.io/badge/-Test%20Library-blueviolet?style=flat-square&testinglibrary)
 
-### When I need to add Components and Styles
+##### When I need to add Components and Styles
 ![styled-components](https://img.shields.io/badge/-styled%20components-ff69b4?style=flat-square&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-blue?style=flat-square&logo=materialui)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Storybook](https://img.shields.io/badge/-Storybook-ff69b4?style=flat-square&logo=storybook)
 
-### Dev-Ops 
+#### Dev-Ops 
 ![Fastlane](https://img.shields.io/badge/-Fastlane-blue?style=flat-square&logo=fastlane)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Sentry](https://img.shields.io/badge/-Sentry-blueviolet?style=flat-square&logo=sentry)
@@ -57,7 +57,7 @@ But have also work on
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-### Top 2 tools
+##### Top 2 tools
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-blue?style=flat-square&logo=jetbrains)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
