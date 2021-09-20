@@ -17,7 +17,7 @@
 ![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
 
 ##### but have working experience with
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=flat-square&logo=rubyonrails)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF6347?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ##### The recent tech I've been using for API's, DB's, Testing, Styling and Dev-ops
