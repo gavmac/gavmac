@@ -7,7 +7,7 @@
 
 ## ⚡ Technologies
 
-### I love working with JS
+I love working with JS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -15,7 +15,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)
 
-### But have also work on
+But have also work on
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
