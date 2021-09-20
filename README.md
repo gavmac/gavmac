@@ -13,10 +13,10 @@ I love working with JS
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)
+![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
 
 But have also work on
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=flat-square&logo=rubyonrails)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-critical?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ### When I want to build an API
@@ -28,7 +28,7 @@ But have also work on
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Couchbase](https://img.shields.io/badge/-Couchbase-red?style=flat-square&logo=couchbase)
 ### But have also work on relational DBS
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### These tools have helped me create native and hybrid apps
@@ -40,17 +40,17 @@ But have also work on
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
 ![Appium](https://img.shields.io/badge/-Appium-blueviolet?style=flat-square)
-![Cucumber](https://img.shields.io/badge/-Cucumber-success?style=flat-square&logo=cucumber)
+![Cucumber](https://img.shields.io/badge/-Cucumber-black?style=flat-square&logo=cucumber)
 ![React Testing Library](https://img.shields.io/badge/-Test%20Library-blueviolet?style=flat-square&testinglibrary)
 
 ##### When I need to add Components and Styles
-![styled-components](https://img.shields.io/badge/-styled%20components-ff69b4?style=flat-square&logo=styled-components)
+![styled-components](https://img.shields.io/badge/-styled%20components-black?style=flat-square&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-blue?style=flat-square&logo=materialui)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![Storybook](https://img.shields.io/badge/-Storybook-ff69b4?style=flat-square&logo=storybook)
+![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 
 #### Dev-Ops 
-![Fastlane](https://img.shields.io/badge/-Fastlane-blue?style=flat-square&logo=fastlane)
+![Fastlane](https://img.shields.io/badge/-Fastlane-black?style=flat-square&logo=fastlane)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Sentry](https://img.shields.io/badge/-Sentry-blueviolet?style=flat-square&logo=sentry)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -58,7 +58,7 @@ But have also work on
 
 
 ##### Top 2 tools
-![Jetbrains](https://img.shields.io/badge/-Jetbrains-blue?style=flat-square&logo=jetbrains)
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-black?style=flat-square&logo=jetbrains)
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
 
