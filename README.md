@@ -13,11 +13,58 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-red?style=flat-square&logo=rubyonrails)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
+
+
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Couchbase](https://img.shields.io/badge/-Couchbase-black?style=flat-square&logo=couchbase)
+![Couchbase](https://img.shields.io/badge/-Couchbase-red?style=flat-square&logo=couchbase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
 ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode)
+![Apache Cordova](https://img.shields.io/badge/-Apache%20Cordova-black?style=flat-square&logo=apachecordova)
+
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress)
+![Appium](https://img.shields.io/badge/-Appium-blueviolet?style=flat-square)
+![Cucumber](https://img.shields.io/badge/-Cucumber-success?style=flat-square&logo=cucumber)
+![React Testing Library](https://img.shields.io/badge/-Test%20Library-blueviolet?style=flat-square&testinglibrary)
+
+![Sentry](https://img.shields.io/badge/-Sentry-blueviolet?style=flat-square&logo=sentry)
+
+![styled-components](https://img.shields.io/badge/-styled%20components-ff69b4?style=flat-square&logo=styled-components)
+![Material-UI](https://img.shields.io/badge/-Material%20UI-blue?style=flat-square&logo=materialui)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Storybook](https://img.shields.io/badge/-Storybook-ff69b4?style=flat-square&logo=storybook)
+
+
+![Jetbrains](https://img.shields.io/badge/-Jetbrains-blue?style=flat-square&logo=jetbrains)
+![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
+
+![Fastlane](https://img.shields.io/badge/-Fastlane-blue?style=flat-square&logo=fastlane)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+
+![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express)
+
+
+
+
+
+
+
+
+
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
