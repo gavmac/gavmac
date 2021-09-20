@@ -52,7 +52,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&redirect=true)
 
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=gavmac2010)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=gavmac2010)](https://medium.com/@gavmac2010)
 
 <!--
 **gavmac/gavmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
