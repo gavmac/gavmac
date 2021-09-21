@@ -18,8 +18,8 @@ I've helped build successful products for the Ecommerce, Media and Property deve
 [![Youtube Badge](https://img.shields.io/badge/-GavMac-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCADv58l3HUsOu6c41I3oLVw)](https://www.youtube.com/channel/UCADv58l3HUsOu6c41I3oLVw)
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 
-## :writing_hand: Blog and Writing
-I like to blog what I learn in the hope that I can help others. You can find my articles on [medium](https://medium.com/@GavMac2010) and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
+## :writing_hand: Tech Blog and Store
+I like to blog what I learn in the hope that I can help others. You can find my articles on [medium](https://medium.com/@GavMac2010) and at the store [notnotnerdy.com](https://notnotnerdy.com) that my wife and I set up during the COVID lockdowns<br>
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 [![Medium Badge](https://img.shields.io/badge/-!!nerdy-black?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
 
