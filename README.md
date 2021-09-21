@@ -1,15 +1,15 @@
-###  <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
+### Hello, Hola, Bonjour, Nǐ hǎo, Dia dhuit, Guten tag, Salam, xin chào <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
 
 I'm Gavin, A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto.
 I've helped build successful products for the Ecommerce, Media and Property development industries in both North America and Europe.
 
-##### When Im not behind a screen 
-:farmer: I like to grow vegatables, this years success story are my chilli peppers.
-:apple: I dream of one day owning a small orchard and making cider.
-:open_book: The book I'm currently reading is "The Road Less Traveled" by "M. Scott Peck".
-:soccer: Big football fan :heart: Man Utd
-:lotus_position_man: I burn about 300 incense sticks a year.
-:man_teacher: Mentoring is a passion of mine and I have great pride in knowing Ive helped friends and family start their software development careers.
+##### When I'm not cushing code 
+:farmer: I like to grow vegatables, this years success story are my chilli peppers.<br>
+:apple: I dream of one day owning a small orchard and making cider.<br>
+:open_book: The book I'm currently reading is "The Road Less Traveled" by "M. Scott Peck".<br>
+:soccer: Big football fan :heart: Man Utd.<br>
+:lotus_position_man: I burn about 300 incense sticks a year.<br>
+:man_teacher: Mentoring is a passion of mine and I have great pride in knowing Ive helped friends and family start their software development careers.<br>
 :seedling: I get a thrill out of practicing personal growth through travel, guitar, meditation, painting, cooking and I enjoy conducting my own mindfulness experiments, seeking to become the best version of me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-GavinMacken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gavin-macken-42435498/)](https://www.linkedin.com/in/gavin-macken-42435498/)
@@ -20,6 +20,8 @@ I've helped build successful products for the Ecommerce, Media and Property deve
 ## :writing_hand: Blog and Writing
 
 Apart from coding I also enjoy bloging and sharing what I'm learning. You can find my articles on medium and my website
+[![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
+[![Medium Badge](https://img.shields.io/badge/-!!nerdy-03a57a?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
 
 ## :technologist: Technologies
 
