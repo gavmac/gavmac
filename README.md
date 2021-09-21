@@ -4,7 +4,7 @@
 ### A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto.
 ### I've helped build successful products for the Ecommerce, Media and Property development industries in both North America and Europe.
 
-##### When I'm not cushing code 
+##### When I'm not crushing code 
 :farmer: I like to grow vegatables, this years success story are my chilli peppers.<br>
 :apple: I dream of one day owning a small orchard and making cider.<br>
 :open_book: The book I'm currently reading is "The Road Less Traveled" by "M. Scott Peck".<br>
