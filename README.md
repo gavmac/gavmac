@@ -19,11 +19,11 @@ I've helped build successful products for the Ecommerce, Media and Property deve
 
 ## :writing_hand: Blog and Writing
 
-Apart from coding I also enjoy bloging and sharing what I'm learning. You can find my articles on medium and my website
+Apart from coding I also enjoy bloging and sharing what I'm learning. You can find my articles on [medium](https://medium.com/@GavMac2010) medium and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
-[![Medium Badge](https://img.shields.io/badge/-!!nerdy-03a57a?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
+[![Medium Badge](https://img.shields.io/badge/-!!nerdy-black?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
 
-## :technologist: Technologies
+## :technologist: Technologies and Tools
 
 #### I work mostly with JS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -66,7 +66,7 @@ Apart from coding I also enjoy bloging and sharing what I'm learning. You can fi
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
 
-## :musical_note: What Im listening to...
+## :headphones: What Im listening to...
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&redirect=true)
 
