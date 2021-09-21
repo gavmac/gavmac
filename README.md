@@ -19,7 +19,7 @@ I've helped build successful products for the Ecommerce, Media and Property deve
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 
 ## :writing_hand: Blog and Writing
-I like to blog what I learn in the hope that I can help others. You can find my articles on [medium](https://medium.com/@GavMac2010) medium and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
+I like to blog what I learn in the hope that I can help others. You can find my articles on [medium](https://medium.com/@GavMac2010) and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 [![Medium Badge](https://img.shields.io/badge/-!!nerdy-black?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
 
