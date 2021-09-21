@@ -1,6 +1,7 @@
 ### Hello, Hola, Bonjour, Nǐ hǎo, Dia dhuit, Guten tag, Salam, xin chào <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
 
-I'm Gavin, A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto.
+I'm Gavin, <br>
+A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto.<br>
 I've helped build successful products for the Ecommerce, Media and Property development industries in both North America and Europe.
 
 ##### When I'm not cushing code 
@@ -18,8 +19,7 @@ I've helped build successful products for the Ecommerce, Media and Property deve
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 
 ## :writing_hand: Blog and Writing
-
-Apart from coding I also enjoy bloging and sharing what I'm learning. You can find my articles on [medium](https://medium.com/@GavMac2010) medium and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
+I like to blog what I learn in the hope that I can help others. You can find my articles on [medium](https://medium.com/@GavMac2010) medium and my website [notnotnerdy.com](https://notnotnerdy.com)<br>
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 [![Medium Badge](https://img.shields.io/badge/-!!nerdy-black?style=flat-square&labelColor=000000&link=https://notnotnerdy.com)](https://notnotnerdy.com)
 
