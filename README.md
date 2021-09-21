@@ -1,13 +1,29 @@
-### Fancy seeing you here! <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
+###  <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
+
+I'm Gavin, A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto.
+I've helped build successful products for the Ecommerce, Media and Property development industries in both North America and Europe.
+
+##### When Im not behind a screen 
+:farmer: I like to grow vegatables, this years success story are my chilli peppers.
+:apple: I dream of one day owning a small orchard and making cider.
+:open_book: The book I'm currently reading is "The Road Less Traveled" by "M. Scott Peck".
+:soccer: Big football fan :heart: Man Utd
+:lotus_position_man: I burn about 300 incense sticks a year.
+:man_teacher: Mentoring is a passion of mine and I have great pride in knowing Ive helped friends and family start their software development careers.
+:seedling: I get a thrill out of practicing personal growth through travel, guitar, meditation, painting, cooking and I enjoy conducting my own mindfulness experiments, seeking to become the best version of me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-GavinMacken-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gavin-macken-42435498/)](https://www.linkedin.com/in/gavin-macken-42435498/)
 [![Instagram Badge](https://img.shields.io/badge/-!!nerdy-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/notnotnerdy/)](https://www.instagram.com/notnotnerdy)
 [![Youtube Badge](https://img.shields.io/badge/-GavMac-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCADv58l3HUsOu6c41I3oLVw)](https://www.youtube.com/channel/UCADv58l3HUsOu6c41I3oLVw)
 [![Medium Badge](https://img.shields.io/badge/-@GavMac2010-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@GavMac2010)](https://medium.com/@GavMac2010)
 
-## ⚡ Technologies
+## :writing_hand: Blog and Writing
 
-##### I work mostly with JS
+Apart from coding I also enjoy bloging and sharing what I'm learning. You can find my articles on medium and my website
+
+## :technologist: Technologies
+
+#### I work mostly with JS
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -15,11 +31,11 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
 
-##### but in the past have enjoyed using
+#### but in the past have enjoyed using
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF6347?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
-##### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
+#### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
 ![REST](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
@@ -48,8 +64,11 @@
 ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira)
 
 
-##### What Im listening too right now
+## :musical_note: What Im listening to...
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=22hyvd3vz3p4efy4axt4l4hsq&redirect=true)
+
+
 
 
 <!--
