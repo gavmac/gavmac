@@ -33,7 +33,7 @@ I like to blog what I learn in the hope that I can help others. You can find my 
 ![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
 
 #### but in the past have enjoyed using
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF6347?style=flat-square&logo=rubyonrails)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF0000?style=flat-square&logo=rubyonrails)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 #### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
