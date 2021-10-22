@@ -41,7 +41,7 @@ I like to blog what I learn in the hope that I can help others. You can find my 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Couchbase](https://img.shields.io/badge/-Couchbase-red?style=flat-square&logo=couchbase)
+![CouchDB](https://img.shields.io/badge/-Apache%20CouchDB-red?style=flat-square&logo=couchdb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
