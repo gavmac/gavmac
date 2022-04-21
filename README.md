@@ -1,7 +1,7 @@
 # Hello, Hola, Bonjour, Nǐ hǎo, Dia dhuit, Guten tag, Salam, xin chào <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
 
 ### I'm Gavin, <br>
-### A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto. <br> I've helped build successful Ecommerce, Media Marketing and learning products in both North America and Europe.
+### A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto. <br> I've helped build successful Ecommerce, Media Marketing and Learning products in both North America and Europe.
 
 #### When I'm not crushing code 
 :farmer: I like to grow vegatables, this years success story are my chilli peppers.<br>
