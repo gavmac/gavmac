@@ -1,7 +1,7 @@
 # Hello, Hola, Bonjour, Nǐ hǎo, Dia dhuit, Guten tag, Salam, xin chào <img src="https://github.com/gavmac/gavmac/blob/main/wave.gif" width="30px">
 
 ### I'm Gavin, <br>
-### A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years, where I live with my beautiful wife in Toronto. <br> I've helped build successful Ecommerce, Media Marketing and Learning products in both North America and Europe.
+### A Software Engineer from Ireland:ireland: who has called Canada:canada: home for the last 10 years. <br> I've helped build successful Ecommerce, Media Marketing and Learning products in both North America and Europe.
 
 #### When I'm not crushing code 
 :farmer: I like to grow vegatables, this years success story are my chilli peppers.<br>
@@ -24,19 +24,20 @@ I like to blog what I learn in the hope that I can help others. You can find my 
 
 ## :technologist: Technologies and Tools
 
-#### I work mostly with JS
+#### I work mostly with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF0000?style=flat-square&logo=rubyonrails)
+
+
+<!-- #### but in the past have enjoyed using
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php) -->
+
+#### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-yellow?style=flat-square&logo=express)
-
-#### but in the past have enjoyed using
-![Ruby On Rails](https://img.shields.io/badge/-Ruby%20On%20Rails-FF0000?style=flat-square&logo=rubyonrails)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-
-#### The tech I've been using recently (last 2 years) for API's, DB's, Testing, Styling and Dev-ops
 ![REST](https://img.shields.io/badge/-RESTful%20API-black?style=flat-square&logo=rest)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
